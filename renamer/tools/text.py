@@ -22,11 +22,11 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [ BOT UPDATES](https://t.me/UniversalKidzbotz)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+** Group:** [ BOT SUPPORT](https://t.me/UniversalKidzBotzSupport)
 
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** Source Code:** [Press Me](https://t.me/harshahero)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -41,7 +41,7 @@ For source code check about
 
     START_TEXT = """Hi {user_mention},
 
-I am a telegram renamer with permanent thumbnail.
+I am UK pro renamer with permanent thumbnail.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
@@ -59,4 +59,4 @@ __--Payment Methods:--__
  
 GooglePay / Paytm / PhonPay / paypal / Net Banking
  
-**For Donate:** message me @MaxxRiderz"""
+**For Donate:** message me @harshahero"""
